@@ -1,5 +1,0 @@
-Center,500000
-Sun,1,0,1,0,0,Center
-Sun2,1,0,1,0,180,Center
-Earth,.01,0,.001,0,0,Sun
-Earth2,.01,0,.001,0,180,Sun2
