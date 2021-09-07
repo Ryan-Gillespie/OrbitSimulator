@@ -15,4 +15,6 @@ Orbital elements, excepting eccentricity, are phrased in terms of multiples of e
 
 ## Screenshots
 
-![image](/https://user-images.githubusercontent.com/47795760/132409974-3e141374-a93c-4ab4-88bc-ec4c3ca193e5.png) ![image](/https://user-images.githubusercontent.com/47795760/132410147-517eb80a-53c8-4a5d-bf94-fbfb4a9f443c.png)
+![image](https://user-images.githubusercontent.com/47795760/132410709-005a6e46-030f-47d6-987c-4f85c8b70bfd.png)
+![image](https://user-images.githubusercontent.com/47795760/132410794-39344b46-66e3-44e3-bcf8-e8e69fdcb328.png)
+
