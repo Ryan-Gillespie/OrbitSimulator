@@ -14,3 +14,7 @@ Orbital elements, excepting eccentricity, are phrased in terms of multiples of e
 - Enter: Toggle tracers that mark the paths of all orbiting bodies.
 
 ## Screenshots
+<p float="left">
+  <img src="/https://user-images.githubusercontent.com/47795760/132409974-3e141374-a93c-4ab4-88bc-ec4c3ca193e5.png" width="300" />
+  <img src="/https://user-images.githubusercontent.com/47795760/132410147-517eb80a-53c8-4a5d-bf94-fbfb4a9f443c.png" width="300" /> 
+</p>
